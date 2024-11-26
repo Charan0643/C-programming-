@@ -12,9 +12,9 @@ void main()
 		break;
 	case'-':printf("result=%d",op1-op2);
 		break;
-	case'*':printf("result=%d",(op1*op2));
+	case'*':printf("result=%d",op1*op2);
 		break;
-	case'/':printf("result=%d",(op1/op2));
+	case'/':printf("result=%d",op1/op2);
 		break;
 	case'%':printf("result=%d",op1%op2);
 		break;
